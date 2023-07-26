@@ -2,7 +2,7 @@
   "HasProblem": true,
   "ForceUpdate": true,
   "Problem": "Update",
-  "Version": "3.4.5",
+  "Version": "3.4.6",
   "Stable_Version": {
     "Valid_Version": [
       "3.1.7",
@@ -15,7 +15,8 @@
       "3.2.4",
       "3.4.0",
       "3.4.4",
-      "3.4.5"
+      "3.4.5",
+      "3.4.6"
     ],
     "RealTime_AutoUpdate": true
   }
