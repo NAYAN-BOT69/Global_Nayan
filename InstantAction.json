@@ -20,6 +20,6 @@
       "3.4.7",
       "3.4.8"
     ],
-    "RealTime_AutoUpdate": true
+    "RealTime_AutoUpdate": false
   }
 }
