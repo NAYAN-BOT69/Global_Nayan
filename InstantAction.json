@@ -21,6 +21,6 @@
       "3.4.8",
       "3.4.9"
     ],
-    "RealTime_AutoUpdate": true
+    "RealTime_AutoUpdate": false
   }
 }
