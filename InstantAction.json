@@ -8,6 +8,6 @@
       "4.0.0",
       "4.5.0"
     ],
-    "RealTime_AutoUpdate": true
+    "RealTime_AutoUpdate": false
   }
 }
