@@ -1,6 +1,6 @@
 {
-  "name": "nayan-remake-fca",
-  "version": "4.0.0",
+  "name": "fca-nayan-remake",
+  "version": "4.5.0",
   "description": "Facebook-chat-api protect and deploy by MOHAMMAD NAYAN",
   "main": "Index.js",
   "scripts": {
