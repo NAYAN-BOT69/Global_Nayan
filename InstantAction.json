@@ -2,12 +2,14 @@
   "HasProblem": true,
   "ForceUpdate": true,
   "Problem": "Update",
-  "Version": "4.5.0",
+  "Version": "4.5.2",
   "Stable_Version": {
     "Valid_Version": [
       "4.0.0",
-      "4.5.0"
+      "4.5.0",
+      "4.5.1",
+      "4.5.2"
     ],
-    "RealTime_AutoUpdate": false
+    "RealTime_AutoUpdate": true
   }
 }
